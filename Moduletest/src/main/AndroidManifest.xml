@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mvvm.librarytest" >
+
+    <application>
+
+        <activity android:name=".TestActivity"></activity>
+    </application>
+
+
+</manifest>
+
+

@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mvvm.modulemain" >
+
+    <application>
+
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>
